@@ -1,0 +1,9 @@
+{
+	"TempFolder":"TEMP",
+	"ExpireTimeSeconds": 600,
+	"DownloadFilePort":":9092",
+	"ListenPort":":8880"       ,
+	"BaseUrl":"http://127.0.0.1"    ,
+	"WsPort":":9093",
+	"WsPath":"/ws"
+}
